@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/EduardoAcacio/NodeStore/issues"
   },
-  "homepage": "https://github.com/EduardoAcacio/NodeStore#readme"
+  "homepage": "https://github.com/EduardoAcacio/NodeStore#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "http": "0.0.0"
+  }
 }
